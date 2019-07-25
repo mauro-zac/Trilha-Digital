@@ -42,5 +42,5 @@ Neste repositório você encontrará diversas possibilidades para participar da 
 
 [`Projects`](https://github.com/mauro-zac/Trilha-Digital/projects) Para ter uma visão geral do que precisa ser feito.
 
-[`Micromódulos`](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) Cada Módulo Estruturado de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/micromodulos.md). 
+[`Micromódulos`](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) Cada Módulo Estruturado de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/readme.md). 
 
