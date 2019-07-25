@@ -4,7 +4,7 @@
 
 A principal contribuição dos autores é a preparação de micromódulos. Os micromódulos são aulas/atividades com duração máxima de 8 horas-aula desenhados para cobrir tópicos específicos e contribuir para o desenvolvimento de competências gerais e específicas.
 
-> Transforme algo que você saiba em uma aula capaz de mudar a vida de um jovem
+`Transforme algo que você saiba em uma aula capaz de mudar a vida de alguém`
 
 Os requisitos mínimos de um micromódulo:
 
