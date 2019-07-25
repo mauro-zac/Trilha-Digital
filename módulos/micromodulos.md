@@ -31,7 +31,7 @@ Existem inúmeras pesquisas sobre cognição e desenvolvimento humano que produz
 
 ![Cognitive principles](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/willigham.jpg)
 
-Examine também como foram feitos os micromódulos já aprovados na comunidade. Elas podem ajudar a destravar sua criatividade!
+Examine também como foram feitos os micromódulos já aprovados na comunidade. Isso pode ajudar a destravar sua criatividade!
 
 ### Dos micromódulos ao kernel
 
@@ -39,8 +39,8 @@ A contribuição de micromódulos é aberta e todos serão aceitos desde que cum
 
 Uma vez aceitos, os micromódulos poderão ser alvo de issues e comentários visando seu aperfeiçoamento.
 
-A decisão final sobre quais micromódulos formarão a versão oficial do kernel para o próximo ano será tomada por uma comissão de autores, escolhida entre aqueles que mais contribuirem para a comunidade.
+A decisão final sobre quais micromódulos formarão a versão oficial do kernel para o próximo ano será tomada por uma comissão de autores, escolhida dentre aqueles que mais contribuírem para a comunidade. 
 
-O kernel de cada Módulo será composto de N micromódulos totalizando 80 horas, buscando o melhor equilíbrio e cobertura de competências possível.
+O kernel de cada Módulo será composto de N micromódulos totalizando 80 horas, buscando o melhor equilíbrio e cobertura de competências possível, em uma ordem didadicamente compatível. Esse material será editado em um LaTEX/PDF para se tornar o material estruturado oficial da Trilha Digital para os estudantes.
 
 Os micromódulos que não forem selecionados para o kernel continuarão disponíveis no repositório.
