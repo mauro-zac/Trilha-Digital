@@ -10,6 +10,7 @@ Os requisitos mínimos de um micromódulo:
 
 * um título objetivo
 * número de horas-aula
+* em que módulo o micromódulo se encaixa
 * objetivos
 * competências que serão trabalhadas
 * um roteiro para conduzir as aulas
@@ -24,8 +25,22 @@ Opcionais incluem:
 * indicações de livros, filmes, obras de arte
 * informações sobre mercados, empresas, produtos (cuidando de manter isenção comercial)
 
-#### Dicas para estruturar boas experiências de aprendizagem
+### Dicas para estruturar boas experiências de aprendizagem
 
 Existem inúmeras pesquisas sobre cognição e desenvolvimento humano que produziram evidências sólidas sobre boas práticas de ensino. Uma boa introdução é o livro de [Daniel Willingham](https://moodrmoo.files.wordpress.com/2014/10/why-dont-students-like-school.pdf) do qual destacamos o resumo a seguir. Considere esses princípios enquanto estiver estruturando o roteiro de seu micromódulo. 
 
 ![Cognitive principles](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/willigham.jpg)
+
+Examine também como foram feitos os micromódulos já aprovados na comunidade. Elas podem ajudar a destravar sua criatividade!
+
+### Dos micromódulos ao kernel
+
+A contribuição de micromódulos é aberta e todos serão aceitos desde que cumpram os requisitos mínimos.
+
+Uma vez aceitos, os micromódulos poderão ser alvo de issues e comentários visando seu aperfeiçoamento.
+
+A decisão final sobre quais micromódulos formarão a versão oficial do kernel para o próximo ano será tomada por uma comissão de autores, escolhida entre aqueles que mais contribuirem para a comunidade.
+
+O kernel de cada Módulo será composto de N micromódulos totalizando 80 horas, buscando o melhor equilíbrio e cobertura de competências possível.
+
+Os micromódulos que não forem selecionados para o kernel continuarão disponíveis no repositório.
