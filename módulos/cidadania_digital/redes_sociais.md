@@ -16,7 +16,7 @@ Você se enquadra no padrão nela descrito? Você conhece todas as redes sociais
 
 Acompanhar mais criticamente o universo das redes sociais é importante para o cidadão e o profissional digital. Os dados da matéria acima foram obtidos por uma pesquisa realizada anualmente por uma organização internacional chamada [We Are Social](https://wearesocial.com). Acompanhar sites como esse é um modo de aprender, manter-se atualizado no assunto e praticar o inglês.
 
-Uma rede social é uma estrutura social composta por pessoas ou organizações, conectadas por um ou vários tipos de relações, que compartilham valores e objetivos comuns. Tem bastante para aprender sobre elas [neste](https://pt.wikipedia.org/wiki/Rede_social) e
+Uma rede social é uma estrutura social composta por pessoas ou organizações, conectadas por um ou vários tipos de relações, que compartilham valores e objetivos comuns. Mas é necessário compreender o que é, de fato, uma rede social. Nem todas as redes sociais são digitais e nem todas as redes digitais são sociais. Confuso? [Este artigo](https://medium.com/@raquelrecuero/m%C3%ADdia-social-plataforma-digital-site-de-rede-social-ou-rede-social-n%C3%A3o-%C3%A9-tudo-a-mesma-coisa-d7b54591a9ec) explica melhor esses conceitos. Tem bastante para aprender sobre esse tema [neste](https://pt.wikipedia.org/wiki/Rede_social) e 
 [neste](https://pt.wikipedia.org/wiki/Rede_social_virtual) artigos da Wikipédia.
 
 #### 2) Como você usa os serviços de redes sociais?
