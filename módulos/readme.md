@@ -1,10 +1,12 @@
 # Módulos, micromódulos & contribuições
 
+`Transforme algo que você saiba em uma aula capaz de mudar a vida de alguém`
+
 ![kernel 1.0](https://github.com/mauro-zac/Trilha-Digital/blob/master/Modulos.jpg)
 
-O principal modo de contribuir com a Trilha Digital é com a preparação de micromódulos. Os micromódulos são aulas/atividades com duração máxima de 8 horas-aula desenhados para cobrir tópicos específicos e contribuir para o desenvolvimento de competências gerais e específicas.
+O principal modo de você contribuir com a Trilha Digital é com a preparação e o compartilhamento de micromódulos. 
 
-`Transforme algo que você saiba em uma aula capaz de mudar a vida de alguém`
+Os micromódulos são aulas/atividades com duração máxima de 8 horas-aula desenhados para cobrir tópicos específicos e contribuir para que os estudantes desenvolvam de fato competências.
 
 Os requisitos mínimos de um micromódulo:
 
