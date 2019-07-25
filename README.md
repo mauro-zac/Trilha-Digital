@@ -36,9 +36,9 @@ Os conteúdos e principalmente as metodologias e abordagens de ensino deverão c
 
 ## Como contribuir?
 
-Neste repositório você encontrará diversas possibilidades para dar sua contribuição e participar da comunidade de autores da Trilha Digital.
+Neste repositório você encontrará diversas possibilidades para participar da comunidade Trilha Digital e dar sua contribuição.
 
-[`Issues`](https://github.com/mauro-zac/Trilha-Digital/issues) É uma ótima porta de entrada. Procure alguma pendência ou tópico específico que precise de ajuda e mãos-à-obra! É também o lugar para fazer sugestões e comentários.
+[`Issues`](https://github.com/mauro-zac/Trilha-Digital/issues) Comece por aqui. Procure alguma pendência ou tópico específico que precise de ajuda e mãos-à-obra! É também o lugar para fazer sugestões e comentários.
 
 [`Projects`](https://github.com/mauro-zac/Trilha-Digital/projects) Para ter uma visão geral do que precisa ser feito.
 
