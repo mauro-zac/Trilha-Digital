@@ -1,4 +1,4 @@
-# Micromódulos
+# Módulos, micromódulos & contribuições
 
 ![kernel 1.0](https://github.com/mauro-zac/Trilha-Digital/blob/master/Modulos.jpg)
 
