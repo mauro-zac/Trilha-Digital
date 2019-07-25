@@ -13,13 +13,13 @@ Este Git reúne as contribuições de autores voluntários para estruturar a ver
 
 Aprender como se aprende, ou [metacognição](https://en.wikipedia.org/wiki/Metacognition) é a competência chave a ser praticada e desenvolvida. Em cada um dos 3 anos do ensino médio, o currículo será composto por 160 horas dedicadas ao Projeto Digital e mais três Módulos Estruturados de 80 horas cada.
 
+`Projeto Digital` Desenvolver competências socioemocionais e de resolução de problemas a partir de uma dinâmica estruturada de trabalho em grupo e do uso de metodologias ágeis de desenvolvimento de projetos.
+
 `Cultura Digital` Refletir criticamente sobre as implicações culturais, sociais e econômicas da digitalização e desenvolver competências de comunicação, protagonismo e autoria empregando meios digitais. 
 
 `Aplicações` Adquirir proficiência em ferramentas digitais e em programação para desenvolver projetos e resolver problemas típicos da nova economia.
 
 `Fundamentos` Dominar a gramática básica de linguagens de programação, fundamentos de estatística e da abstração de fenômenos e processos em modelos matemáticos e computacionais.
-
-`Projeto Digital` Desenvolver competências socioemocionais e de resolução de problemas a partir de uma dinâmica estruturada de trabalho em grupo e do uso de metodologias ágeis de desenvolvimento de projetos.
 
 Os conteúdos e principalmente as metodologias e abordagens de ensino deverão contribuir para o desenvolvimento das 10 competências gerais estipuladas pela [nova BNCC](http://porvir.org/entenda-10-competencias-gerais-orientam-base-nacional-comum-curricular/):
 
@@ -42,6 +42,5 @@ Neste repositório você encontrará diversas possibilidades para participar da 
 
 [`Projects`](https://github.com/mauro-zac/Trilha-Digital/projects) Para ter uma visão geral do que precisa ser feito.
 
-`Micromódulos` Cada Módulo Estrutura de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/micromodulos.md). 
-
+[`Micromódulos`](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) Cada Módulo Estrutura de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/micromodulos.md). 
 
