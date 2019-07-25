@@ -36,11 +36,11 @@ Os conteúdos e principalmente as metodologias e abordagens de ensino deverão c
 
 ## Como contribuir?
 
-Neste repositório você encontrará diversas possibilidades para participar da comunidade Trilha Digital e dar sua contribuição.
+Neste repositório você encontrará diversas possibilidades para participar da comunidade Trilha Digital e dar a sua contribuição.
 
 [`Issues`](https://github.com/mauro-zac/Trilha-Digital/issues) Comece por aqui! Procure alguma pendência ou tópico específico que precise de ajuda e mãos-à-obra! É também o lugar para fazer sugestões e comentários.
 
 [`Projects`](https://github.com/mauro-zac/Trilha-Digital/projects) Para ter uma visão geral do que precisa ser feito.
 
-[`Micromódulos`](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) Cada Módulo Estrutura de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/micromodulos.md). 
+[`Micromódulos`](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) Cada Módulo Estruturado de 80 horas é composto por diversos micromódulos. Você pode fazer sugestões e contribuições aos micromódulos existentes e pode subir novos micromódulos de sua autoria. Dá uma olhada nessas [dicas para preparar um micromódulo](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/micromodulos.md). 
 
