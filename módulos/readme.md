@@ -10,10 +10,10 @@ Os micromódulos são aulas/atividades com duração máxima de 8 horas-aula des
 
 Os requisitos mínimos de um micromódulo:
 
-* um título objetivo
-* número de horas-aula
-* em que módulo o micromódulo se encaixa
-* objetivos
+* um título curto e objetivo
+* número definido de horas-aula
+* indicação de qual módulo o micromódulo se encaixa
+* objetivos didáticos
 * competências que serão trabalhadas
 * um roteiro para conduzir as aulas
 * links para conteúdos externos (priorizar Wikipédia em português)
