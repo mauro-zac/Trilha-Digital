@@ -2,6 +2,8 @@
 
 `80 horas` `2º ano do ensino médio` `Cultura Digital`
 
+Como ser efetivo na comunicação.
+
 Sugestão de tópicos a desenvolver:
 
 * storytelling e persuasão
