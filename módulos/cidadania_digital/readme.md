@@ -2,6 +2,8 @@
 
 `80 horas` `1º ano do ensino médio` `Cultura Digital`
 
+Caminhos para ir além do papel de consumidor digital.
+
 Sugestão de tópicos a desenvolver:
 
 * internet e aplicativos => letramento básico
