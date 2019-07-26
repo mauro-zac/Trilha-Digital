@@ -31,7 +31,7 @@ Existe o lado negativo. Jaron Lanier (procure sobre ele na internet) escreveu um
 
 Muitas redes sociais permitem a criação de grupos fechados, gerenciados por um ou mais administradores. Vamos montar um grupo para a nossa turma, para ser usado por todas as matérias e para atividades extracurriculares.
 
-A sugestão é montar um quadro com as vantagens e desvantagens das redes sociais mais usadas para hospedar o grupo da turma. Os professores podem participar se a turma concordas, mas não devem ser os administradores. A turma decide como organizar isso.
+A sugestão é montar um quadro com as vantagens e desvantagens das redes sociais mais usadas para hospedar o grupo da turma. Os professores podem participar se a turma concordar, mas não devem ser os administradores. A turma decide como organizar isso.
 
 Pode ser que seja fácil para a turma decidir em qual rede montar o seu grupo e quem serão os administradores. Mas pode ser que não, que nem todo mundo concorde e que não seja trivial chegar a uma decisão de consenso.
 
