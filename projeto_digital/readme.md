@@ -1,6 +1,6 @@
 # Projeto Digital
 
-A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da Fundação Shuji Nishimura, SENAI e [Fatec](https://gitlab.com/BDAg). 
+A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da [Fatec](https://gitlab.com/BDAg) e do SENAI em Pompéia/SP com o apoio da Fundação Shuji Nishimura. 
 
 O Projeto Digital é o componente mais importante da Trilha Digital. Ele se repete nos 3 anos do curso, em ciclos semestrais, coincidindo o horário para permitir que alunos de diferentes anos se misturem nos grupos.
 
