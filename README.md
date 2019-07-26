@@ -11,7 +11,7 @@ Este Git reúne as contribuições de autores voluntários para estruturar a ver
 
 ![kernel Trilha Digital](https://github.com/mauro-zac/Trilha-Digital/blob/master/Trilha%20Digital.jpg)
 
-Aprender como se aprende, ou [metacognição](https://en.wikipedia.org/wiki/Metacognition) é a competência chave a ser praticada e desenvolvida. Em cada um dos 3 anos do ensino médio, o currículo será composto por 160 horas dedicadas ao Projeto Digital e mais três Módulos Estruturados de 80 horas cada.
+Aprender como se aprende, ou [metacognição](https://en.wikipedia.org/wiki/Metacognition) é a competência chave a ser praticada e desenvolvida. Em cada um dos 3 anos do ensino médio, o currículo será composto por 160 horas dedicadas ao [Projeto Digital](https://github.com/mauro-zac/Trilha-Digital/tree/master/projeto_digital) e mais três [Módulos Estruturados](https://github.com/mauro-zac/Trilha-Digital/tree/master/módulos) de 80 horas cada.
 
 `Projeto Digital` Desenvolver competências socioemocionais e de resolução de problemas a partir de uma dinâmica estruturada de trabalho em grupo e do uso de metodologias ágeis de desenvolvimento de projetos.
 
