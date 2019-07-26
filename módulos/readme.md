@@ -6,7 +6,7 @@ Contribua com a Trilha Digital preparando e compartilhando conteúdos e atividad
 
 ![kernel 1.0](https://github.com/mauro-zac/Trilha-Digital/blob/master/Modulos.jpg)
 
-Os micromódulos são roteiros para aulas e/ou estudo autônomo com duração máxima de 8 horas-aula desenhados para cobrir tópicos específicos e contribuir para que os estudantes desenvolvam de fato competências.
+Os micromódulos são roteiros para aulas e estudo autônomo com duração máxima de 8 horas-aula desenhados para cobrir tópicos específicos e contribuir para que os estudantes desenvolvam de fato competências.
 
 Os requisitos mínimos de um micromódulo:
 
