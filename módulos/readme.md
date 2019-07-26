@@ -33,7 +33,7 @@ Existem inúmeras pesquisas sobre cognição e desenvolvimento humano que produz
 
 ![Cognitive principles](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/willigham.jpg)
 
-Examine também como foram feitos os micromódulos já aprovados na comunidade. Isso pode ajudar a destravar sua criatividade!
+Examine também como foram feitos os micromódulos já aprovados na comunidade, tipo: [Redes Sociais](https://github.com/mauro-zac/Trilha-Digital/blob/master/módulos/cidadania_digital/redes_sociais.md). Isso pode ajudar a destravar sua criatividade!
 
 ### Dos micromódulos ao kernel
 
