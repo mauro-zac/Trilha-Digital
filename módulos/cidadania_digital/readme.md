@@ -6,11 +6,14 @@ Caminhos para ir além do papel de consumidor digital.
 
 Sugestão de tópicos a desenvolver:
 
-* internet e aplicativos => letramento básico
-* segurança digital
-* jogos digitais => hook techs
-* empreendendorismo, inovação, projetos 
-* metodologias de empreendendorismo (algumas técnicas e canvas)
+* redes sociais
+* internet e aplicativos => o que é, como funciona
+* segurança digital e cibernética
+* profissões ligadas ao digital 
+* personal branding
+* metodologias de empreendendorismo (os canvas básicos)
+* gameficação
+* ...
 
 ### kernel
 
