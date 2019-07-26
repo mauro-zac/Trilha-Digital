@@ -2,7 +2,7 @@
 
 `80 horas` `1º ano do ensino médio` `Cultura Digital`
 
-Caminhos para ir além do papel de consumidor digital.
+Caminhos para ir além do papel de consumidor digital e se tornar um habitante ativo e criativo da era digital
 
 Sugestão de tópicos a desenvolver:
 
