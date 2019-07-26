@@ -2,9 +2,10 @@
 
 `80 horas` `1º ano do ensino médio` `Aplicações`
 
+Como fazer sites e aplicativos.
+
 Sugestão de tópicos a desenvolver:
 
-* como fazer sites e aplicativos
 * linguagens e ferramentas de frontend (html, css, javascript)
 * web design
 * linguagens e ferramentas de backend (python, apis)
