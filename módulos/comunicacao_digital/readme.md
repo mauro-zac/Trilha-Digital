@@ -1,6 +1,6 @@
 # Comunicação Digital
 
-80 horas` `2º ano do ensino médio` `Cultura Digital`
+`80 horas` `2º ano do ensino médio` `Cultura Digital`
 
 Sugestão de tópicos a desenvolver:
 
