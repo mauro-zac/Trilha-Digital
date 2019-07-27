@@ -2,7 +2,7 @@
 
 O Projeto Digital é o componente mais importante da Trilha Digital. Ele se repete nos 3 anos do curso, em ciclos semestrais, coincidindo o horário para permitir que alunos de diferentes anos se misturem nos grupos.
 
-Em 3 anos, o aluno terá passado por 6 diferentes grupos, realizado 6 diferentes projetos e desempenhado diferentes papéis em cada rodada. A metodologia de execução dos projetos é compatível com as melhores práticas de [desenvolvimento ágil](https://pt.wikipedia.org/wiki/Desenvolvimento_ágil_de_software). 
+Em 3 anos, o aluno terá feito 6 diferentes projetos, em diferentes grupos e desempenhado diferentes papéis em cada rodada. A metodologia de execução dos projetos é compatível com as melhores práticas de [desenvolvimento ágil](https://pt.wikipedia.org/wiki/Desenvolvimento_ágil_de_software). 
 
 ![premissas](https://github.com/mauro-zac/Trilha-Digital/blob/master/projeto_digital/projeto_digital_premissas.jpg)
 
