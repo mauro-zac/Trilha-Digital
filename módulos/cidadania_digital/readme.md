@@ -8,6 +8,7 @@ Sugestão de tópicos a desenvolver:
 
 * redes sociais
 * internet e aplicativos => o que é, como funciona
+* comunidades e código aberto
 * segurança digital e cibernética
 * profissões ligadas ao digital 
 * personal branding
