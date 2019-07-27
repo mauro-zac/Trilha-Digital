@@ -23,5 +23,6 @@ Em 3 anos, o aluno terá passado por 6 diferentes grupos, realizado 6 diferentes
 
 ![metodologia](https://github.com/mauro-zac/Trilha-Digital/blob/master/projeto_digital/projeto_digital_metodo.jpg)
 
----
-`A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da [Fatec](https://gitlab.com/BDAg) e do SENAI em Pompéia/SP com o apoio da Fundação Shuji Nishimura`
+----
+
+A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da [Fatec](https://gitlab.com/BDAg) e do SENAI em Pompéia/SP com o apoio da Fundação Shuji Nishimura.
