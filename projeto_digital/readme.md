@@ -1,7 +1,5 @@
 # Projeto Digital
 
-A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da [Fatec](https://gitlab.com/BDAg) e do SENAI em Pompéia/SP com o apoio da Fundação Shuji Nishimura. 
-
 O Projeto Digital é o componente mais importante da Trilha Digital. Ele se repete nos 3 anos do curso, em ciclos semestrais, coincidindo o horário para permitir que alunos de diferentes anos se misturem nos grupos.
 
 Em 3 anos, o aluno terá passado por 6 diferentes grupos, realizado 6 diferentes projetos e desempenhado diferentes papéis em cada rodada. A metodologia de execução dos projetos é compatível com as melhores práticas de [desenvolvimento ágil](https://pt.wikipedia.org/wiki/Desenvolvimento_ágil_de_software). 
@@ -24,3 +22,6 @@ Em 3 anos, o aluno terá passado por 6 diferentes grupos, realizado 6 diferentes
 * auto-avaliação e avaliação dos pares são incentivadas
 
 ![metodologia](https://github.com/mauro-zac/Trilha-Digital/blob/master/projeto_digital/projeto_digital_metodo.jpg)
+
+---
+`A metodologia do Projeto Digital (PD) é inspirada no [Profound Learning](http://imaginaleducation.com/profound-learning.html), com base nas experiências de sucesso da [Fatec](https://gitlab.com/BDAg) e do SENAI em Pompéia/SP com o apoio da Fundação Shuji Nishimura`
