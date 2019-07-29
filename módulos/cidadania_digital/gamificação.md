@@ -11,3 +11,5 @@
 #### 1) O que é Gamificação?
 
 Assista [este vídeo]( https://www.youtube.com/watch?v=UI4ZhYwI9F0) sobre o conceito de Gamificação.
+
+Você consegue identificar tarefas do seu dia a dia que o engajam de maneira transacional? E emocional? Ou você não reconhece nenhuma tarefa engajadora no seu dia a dia?
