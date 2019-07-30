@@ -40,7 +40,7 @@ A adição do sufixo `-head` informa o curl que você quer ver o [cabeçalho do 
 
 `Status: 200 OK`
 
-Você já deve ter se deparado com um site te pedindo para aceitar cookies. Mas você já viu um cookie? Basta procurar no cabeçalho do HTTP, é por ele que o [cookie](https://en.wikipedia.org/wiki/HTTP_cookie) vem. O tal de cookie na vida real não é lá tão simpático, mas olhando de perto é isso o que a vê!
+Você já deve ter se deparado com um site te pedindo para aceitar cookies. Mas você já viu um cookie? Basta procurar no cabeçalho do HTTP, é por ele que o [cookie](https://en.wikipedia.org/wiki/HTTP_cookie) vem. O tal de cookie na vida real não é lá tão simpático, mas olhando de perto é isso o que a gente vê!
 
 `Set-Cookie: _gh_sess=WGFkREVGQVJtdTJvazV4azljK05Ja1Q3U3RpUG5zUWdHdGtuS1RyWk01b1ZCbEZhL0VicHlucS9GM2dsdXdad1FuS05mbHkxRTFRM2NyYStIeFdNazB0S3g1Sk8zQTkwZFFMdEpON2hKUVJvdFlzUXgzc2JHajBVNmlucE8xazFNQU9IKyt1Z0dvaDBZVXpkZFM4dzBGTk96b0FMYjlBaUhuVTNrRXJSYVVLSllMcmkzQ0lvbWVrVHg4UEgyR1hZaHJJTGpDdFZudFhXQkMya3hIbGo2QzdSck9QUG5iS2hLd2RtTStjOU9vTWdCb0NnNmFoTUZrN1JxWjJPZjNGcnM2MXFNeGxJd1U3MTdRUkUxM1hVMXVyT0FTVGVnbXBYR3ZTdGNJRkkySTQ9LS01dmFhNWdJQXQxbHQzNmY1OEtJZFN3PT0%3D--ee7b1af97c971c10b33689ece64315e32f464d34; path=/; secure; HttpOnly`
 
