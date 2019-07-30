@@ -12,25 +12,25 @@
 
 #### 1) Dando uma olhada mais de perto em como ocorre a comunicação pela internet
 
-Você ou alguém por perto deve ter um celular Android. Vamos usar esse aparelho de um modo diferente para acessar a internet. Um celular com Android é um computador bastante sofisticado, mas a interface para o usuário é bastante restrita. Fica limitada aos aplicativos.
+Você ou alguém por perto deve ter em maãos um celular Android. Vamos usar esse aparelho de um modo diferente para acessar a internet. Um celular Android é um computador bastante sofisticado, mas a interface para o usuário é bastante restrita. Fica limitada aos aplicativos.
 
 Ficava!
 
-Vamos instalar o [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt) para abrir uma janela para dentro do seu celular! Tem um ótimo [tutorial sobre o básico do Termux aqui](https://sempreupdate.com.br/conheca-o-termux-e-aproveite-ao-maximo-o-linux-no-android/) para olhar depois. E o [wiki do Termux](https://wiki.termux.com/wiki/Main_Page) para aprofundar.
+Vamos instalar o [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt) e abrir uma janela para dentro do seu celular! Tem um ótimo [tutorial sobre o básico do Termux aqui](https://sempreupdate.com.br/conheca-o-termux-e-aproveite-ao-maximo-o-linux-no-android/) para olhar depois. E o [wiki do Termux](https://wiki.termux.com/wiki/Main_Page) para aprofundar.
 
 Assim que instalar e abrir o Termux vai aparecer uma linha de comando. Digite nela:
 
 $ `curl https://github.com/mauro-zac/Trilha-Digital/raw/master/m%C3%B3dulos/cidadania_digital/internet.md`
 
-O que aconteceu? Você acessou o conteúdo desta aula em texto-plano (*raw*) diretamente do site do GitHub. O [comando curl](https://pt.wikipedia.org/wiki/Curl_(Unix)) encontrou o servidor especificado no endereço *github.com*, usando o protocolo *https* e retornou o conteúdo que está lá disponível. Todo esse processo (na verdade um pouco mais complexo porque incluiu ainda idas e vindas para resolver a criptografia) ocorreu em frações de segundo. 
+O que aconteceu? Você acessou o conteúdo desta aula em texto-plano (*raw*) diretamente do site do GitHub. O [comando curl](https://pt.wikipedia.org/wiki/Curl_(Unix)) encontrou o servidor especificado no endereço *github.com*, usando o protocolo *https* e retornou o conteúdo que está lá disponível. Todo esse processo ocorreu em frações de segundo. 
 
-O curl baixa o conteúdo exatamente como está no servidor. No link acima, o texto *raw* é perfeitamente legível. Mas tente agora baixar uma página "noraml" da internet...
+O curl baixa o conteúdo exatamente como está no servidor. No link acima, o texto *raw* é perfeitamente legível. Mas tente agora baixar uma página "normal" da internet...
 
 $ `curl https://github.com/mauro-zac/Trilha-Digital/blob/master/m%C3%B3dulos/cidadania_digital/internet.md`
 
-O mesmo texto agora está misturado com uma "sopa de letrinhas". Essa sopa é nada mais do que o código-fonte da página *web* escrito em HTML5. O navegador de internet (*browser*) usa as instruções contidas nesse código para montar a página para você. Abra o mesmo endereço em um navegador para conferir.
+O mesmo texto agora chega misturado em uma "sopa de letrinhas". Essa sopa é nada mais do que o código-fonte da página *web* escrito em HTML5. É isso que um navegador de internet (*browser*) espera receber. Ele usa as instruções contidas nesse código para montar a página para você. Abra o mesmo endereço em um navegador para conferir.
 
-O curl mostra como é o texto que de fato é transmitido pela internet. Dizemos que o trabalho de montar e mostrar a página é feito no **cliente** porque é o navegador que você usa quem realiza esse processo. O **servidor** envia o que o você vê pelo curl (que não é um navegador e não sabe como processar os comandos que estão no código-fonte).
+O curl mostra como uma página de fato é transmitida pela internet. Dizemos que o trabalho de montar e mostrar a página é feito no **cliente** porque é o navegador que você usa quem realiza esse processo. O **servidor** envia o que o você vê pelo curl (que não é um navegador e não sabe como processar os comandos que estão no código-fonte).
 
 Mas o curl é capaz de mostrar outras coisas interessantes.
 
@@ -38,11 +38,11 @@ $ `curl https://github.com/mauro-zac/Trilha-Digital/raw/master/m%C3%B3dulos/cida
 
 A adição do sufixo `-head` informa o curl que você quer ver o [cabeçalho do protocolo HTTP](https://pt.wikipedia.org/wiki/Lista_de_campos_de_cabeçalho_HTTP). Esse pacote de informação é sempre parte de toda transação entre cliente e servidor e contém diversas instruções e declarações úteis para que a comunicação funcione e para que eventuais erros possam ser corrigidos. Por exemplo, se tudo correr bem você verá em algum lugar do cabeçalho:
 
-`**Status**: 200 OK`
+`Status: 200 OK`
 
 Você já deve ter se deparado com um site te pedindo para aceitar cookies. Mas você já viu um cookie? Basta procurar no cabeçalho do HTTP, é por ele que o [cookie](https://en.wikipedia.org/wiki/HTTP_cookie) vem.
 
-`**Set-Cookie**: _gh_sess=WGFkREVGQVJtdTJvazV4azljK05Ja1Q3U3RpUG5zUWdHdGtuS1RyWk01b1ZCbEZhL0VicHlucS9GM2dsdXdad1FuS05mbHkxRTFRM2NyYStIeFdNazB0S3g1Sk8zQTkwZFFMdEpON2hKUVJvdFlzUXgzc2JHajBVNmlucE8xazFNQU9IKyt1Z0dvaDBZVXpkZFM4dzBGTk96b0FMYjlBaUhuVTNrRXJSYVVLSllMcmkzQ0lvbWVrVHg4UEgyR1hZaHJJTGpDdFZudFhXQkMya3hIbGo2QzdSck9QUG5iS2hLd2RtTStjOU9vTWdCb0NnNmFoTUZrN1JxWjJPZjNGcnM2MXFNeGxJd1U3MTdRUkUxM1hVMXVyT0FTVGVnbXBYR3ZTdGNJRkkySTQ9LS01dmFhNWdJQXQxbHQzNmY1OEtJZFN3PT0%3D--ee7b1af97c971c10b33689ece64315e32f464d34; path=/; secure; HttpOnly`
+`Set-Cookie: _gh_sess=WGFkREVGQVJtdTJvazV4azljK05Ja1Q3U3RpUG5zUWdHdGtuS1RyWk01b1ZCbEZhL0VicHlucS9GM2dsdXdad1FuS05mbHkxRTFRM2NyYStIeFdNazB0S3g1Sk8zQTkwZFFMdEpON2hKUVJvdFlzUXgzc2JHajBVNmlucE8xazFNQU9IKyt1Z0dvaDBZVXpkZFM4dzBGTk96b0FMYjlBaUhuVTNrRXJSYVVLSllMcmkzQ0lvbWVrVHg4UEgyR1hZaHJJTGpDdFZudFhXQkMya3hIbGo2QzdSck9QUG5iS2hLd2RtTStjOU9vTWdCb0NnNmFoTUZrN1JxWjJPZjNGcnM2MXFNeGxJd1U3MTdRUkUxM1hVMXVyT0FTVGVnbXBYR3ZTdGNJRkkySTQ9LS01dmFhNWdJQXQxbHQzNmY1OEtJZFN3PT0%3D--ee7b1af97c971c10b33689ece64315e32f464d34; path=/; secure; HttpOnly`
 
 O comando curl faz muitas outras coisas. Dentre outras utilidades é um modo seguro de examinar um site suspeito. Como ele é incapaz de executar os códigos que baixa, é uma excelente opção para investigar páginas maliciosas sem correr riscos.
 
