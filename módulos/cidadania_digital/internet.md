@@ -49,24 +49,27 @@ O comando curl faz muitas outras coisas importantes. Por exemplo, ele é um alia
 $ `curl --help` mostra outras possibilidades de uso do comando curl. Divirta-se.
 
 
-#### 2) Infraestrutura
+#### 2) Um pouco mais sobre o protocolo HTTP
 
 $ `curl ifconfig.me`
 
+$ `pkg install python`
 
-#### 3) Protocolos
-
-
-#### 4) Camadas de serviços
+$ `python -m http.server 8000 --bind 127.0.0.1`
 
 
-#### 5) Aplicações
+
+#### 3) 
+
+
+#### 4) 
+
+
+#### 5) 
 
 
 -----
 #### Não deixe de dar uma olhada em: 
-
-https://wiki.termux.com/wiki/Main_Page
 
 https://pt.wikipedia.org/wiki/Internet
 
