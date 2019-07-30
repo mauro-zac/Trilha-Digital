@@ -1,7 +1,7 @@
 # Trilha Digital
 > A transformação começa na escola
 
-Nosso propósito é transformar o ensino médio com um itinerário de 1200 horas capaz de inserir o jovem no universo digital e torná-lo protagonista da nova economia.
+Nosso propósito é transformar o ensino médio com 1200 horas dedicadas a inserir o jovem no universo digital e torná-lo protagonista da nova economia.
 
 A Trilha Digital tem como premissas a prototipação curricular aberta, o trabalho voluntário organizado em comunidade e o desenvolvimento de ecossistemas locais a partir das escolas. [Conheça e participe](https://www.canva.com/design/DADeDqLa6MQ/bBgCNGM6knhY0TXNUCbwgw/view?website#2:trilha-digital:6)!
 
