@@ -36,7 +36,7 @@ Mas o curl é capaz de mostrar outras coisas interessantes.
 
 $ `curl https://github.com/mauro-zac/Trilha-Digital/raw/master/m%C3%B3dulos/cidadania_digital/internet.md --head`
 
-A adição do sufixo `-head` informa o curl que você quer ver o [cabeçalho do protocolo HTTP](https://pt.wikipedia.org/wiki/Lista_de_campos_de_cabeçalho_HTTP). Esse pacote de informação é sempre parte de toda transação entre cliente e servidor e contém diversas instruções e declarações úteis para que a comunicação funcione e para que eventuais erros possam ser corrigidos. Por exemplo, se tudo correr bem você verá em algum lugar do cabeçalho:
+A adição do sufixo `-head` informa o curl que você quer ver o [cabeçalho do protocolo HTTP](https://pt.wikipedia.org/wiki/Lista_de_campos_de_cabeçalho_HTTP). Esse pacote de informação é sempre parte das transações entre cliente e servidor e contém diversas instruções e declarações úteis para que a comunicação funcione e para que eventuais erros sejam corrigidos. Por exemplo, se tudo correr bem você verá em algum lugar do cabeçalho:
 
 `Status: 200 OK`
 
