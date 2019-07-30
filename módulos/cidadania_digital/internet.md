@@ -20,7 +20,7 @@ Vamos instalar o [Termux](https://play.google.com/store/apps/details?id=com.term
 
 Assim que instalar e abrir o Termux vai aparecer uma linha de comando. Copie para lá o seguinte comando:
 
-$ `curl https://github.com/mauro-zac/Trilha-Digital/raw/master/m%C3%B3dulos/cidadania_digital/internet.md`
+$ `curl https://raw.githubusercontent.com/mauro-zac/Trilha-Digital/master/m%C3%B3dulos/cidadania_digital/internet.md`
 
 O que aconteceu? Você acessou o conteúdo desta aula em texto-plano (*raw*) diretamente do site do GitHub. O [comando curl](https://pt.wikipedia.org/wiki/Curl_(Unix)) encontrou o servidor especificado no endereço *github.com*, usando o protocolo *https* e retornou o conteúdo que está lá disponível, fisicamente salvo em um *datacenter* em algum lugar do mundo. Todo esse processo ocorreu em frações de segundo. 
 
