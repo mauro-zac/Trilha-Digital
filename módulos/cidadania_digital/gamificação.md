@@ -2,13 +2,13 @@
 
 `Cidadania Digital` `6 horas-aula`
 
-`Objetivos` Abordar estratégias de Gamificação e suas possibilidades de implementação nas plataformas digitais; mostrar como a Gamificação pode ser utilizada como ferramenta de engajamento a partir da aplicação de exercícios e dinâmicas que envolvem o uso de mecânicas básicas relacionadas à produção de jogos, psicologia comportamental, retenção, motivação, diversão e engajamento dos jogadores.  
+`Objetivos` Abordar estratégias de gamificação e suas possibilidades de implementação nas plataformas digitais; mostrar como a Gamificação pode ser utilizada como ferramenta de engajamento a partir da aplicação de exercícios e dinâmicas que envolvem o uso de mecânicas básicas relacionadas à produção de jogos, psicologia comportamental, retenção, motivação, diversão e engajamento dos jogadores.  
 
-`Competências` Compreender o conceito de Gamificação e as mecânicas de definição de tarefas, como a criação de regras e a aplicação de sistemas de monitoramento; conhecer os benefícios e aplicar os princípios de Gamificação em empresas, produtos, serviços e marcas; compreender processos e técnicas de engajamento e motivação presentes nos games, bem como sua influência nas relações sociais atuais.
+`Competências` Compreender o conceito de gamificação e as mecânicas de definição de tarefas, como a criação de regras e a aplicação de sistemas de monitoramento; conhecer os benefícios e aplicar os princípios de gamificação em empresas, produtos, serviços e marcas; compreender processos e técnicas de engajamento e motivação presentes nos games, bem como sua influência nas relações sociais atuais.
 
 `Roteiro`
 
-#### 1) O que é Gamificação?
+#### 1) O que é gamificação?
 
 Assista [este vídeo]( https://www.youtube.com/watch?v=UI4ZhYwI9F0) sobre o conceito de Gamificação (ou Gamification).
 
@@ -26,10 +26,10 @@ A Jane McGonigal defende a ideia de que os jogos podem ajudar a tornar o mundo u
 >“Se somadas todas as horas jogadas apenas pelos frequentadores do Word of Warcraft desde 2001, teriam sido gastos 5,93 bilhões de anos na resolução de problemas de um mundo virtual”
 Imagine todo esse engajamento dedicado ao mundo real! 
 
-Veja quantos outros insights [este Ted Talk]( https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world) realizado pela Jane McGonigal em 2010 pode nos trazer a respeito da Gamificação e seus benefícios. Você vai se surpreender! O vídeo está em inglês e possui legendas em diversos idiomas, inclusive em português. Divirta-se!
+Veja quantos outros insights [este Ted Talk]( https://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world) realizado pela Jane McGonigal em 2010 pode nos trazer a respeito da gamificação e seus benefícios. Você vai se surpreender! O vídeo está em inglês e possui legendas em diversos idiomas, inclusive em português. Divirta-se!
 
 #### 2) Gamificando
 
 
 
-[Este link](https://blog.engage.bz/10-aplicativos-que-usam-gamification) apresenta uma lista com alguns aplicativos que usam Gamificação. Se você ainda não conhece esses apps, vale a pena conhecer! Conhece outros apps gamificados? Compartilhe com a turma!
+[Este link](https://blog.engage.bz/10-aplicativos-que-usam-gamification) apresenta uma lista com alguns aplicativos que usam gamificação. Se você ainda não conhece esses apps, vale a pena conhecer! Conhece outros apps gamificados? Compartilhe com a turma!
