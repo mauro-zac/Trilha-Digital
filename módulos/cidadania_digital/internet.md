@@ -18,7 +18,7 @@ Ficava!
 
 Vamos instalar o [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt) e abrir uma janela para dentro do seu celular! Tem um ótimo [tutorial sobre o básico do Termux aqui](https://sempreupdate.com.br/conheca-o-termux-e-aproveite-ao-maximo-o-linux-no-android/) para olhar depois. E o [wiki do Termux](https://wiki.termux.com/wiki/Main_Page) para aprofundar.
 
-Assim que instalar e abrir o Termux vai aparecer uma linha de comando. Digite nela:
+Assim que instalar e abrir o Termux vai aparecer uma linha de comando. Copie para lá o seguinte comand:
 
 $ `curl https://github.com/mauro-zac/Trilha-Digital/raw/master/m%C3%B3dulos/cidadania_digital/internet.md`
 
