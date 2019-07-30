@@ -10,7 +10,7 @@
 
 > Muitas pessoas não sabem diferenciar o que é o Facebook ou o Google do que é a Internet, e só acessam a rede através desses servidores centralizados. [El País 29/07/2019](https://brasil.elpais.com/brasil/2019/07/30/tecnologia/1564437803_087942.html)
 
-#### 1) Dando uma olhada mais de perto em como ocorre a comunicação pela internet
+#### 1) Dando uma olhada mais de perto em como ocorre a comunicação na internet
 
 Você ou alguém por perto deve ter em maãos um celular Android. Vamos usar esse aparelho de um modo diferente para acessar a internet. Um celular Android é um computador bastante sofisticado, mas a interface para o usuário é bastante restrita. Fica limitada aos aplicativos.
 
