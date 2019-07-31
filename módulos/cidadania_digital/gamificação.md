@@ -32,11 +32,15 @@ Veja quantos outros insights [este Ted Talk]( https://www.ted.com/talks/jane_mcg
 
 Podemos dizer que a gamificação é uma maneira de transformar tarefas repetitivas, complexas ou até mesmo chatas em algo divertido. Isso acontece porque a dinâmica dos games favorece o engajamento emocional através de recompensas intrínsecas. Ou seja, gamificação é um processo que adiciona elementos de games em produtos ou serviços ou atividades que não são games para que utilizá-los se torne  mais... divertido!
 
-[Este link](https://blog.engage.bz/10-aplicativos-que-usam-gamification) apresenta uma lista com alguns aplicativos que usam gamificação. Se você ainda não conhece esses apps, vale a pena conhecer! Conhece outros apps gamificados? Compartilhe com a turma!
+[Este link](https://blog.engage.bz/10-aplicativos-que-usam-gamification) apresenta uma lista com alguns aplicativos que usam gamificação. Você acha que eles são divertidos? O que você acredita que poderia torná-los ainda mais interessantes? Se você ainda não conhece esses apps, vale a pena conhecer! Conhece outros apps gamificados? Compartilhe com a turma!
 
 Mas, afinal, o que é diversão? O Dicionário de Cambridge define diversão como
 >"comportamento ou atividade agradável ou interessante. O contrário de chato."
 
+Nos games, ao contrário da vida real, as pessoas conseguem abstrair as coisas ruins ou chatas e podem agir de forma não obrigatória, não forçada. E justamente por isso, o comportamento dos jogadores se torna previsível, pois o jogo determina as limitações e regras que devem ser seguidas para que haja progresso, conquistas, punições e recompensas.
 
+Previsibilidade --> Métricas
+Regras --> Mecânicas
+Mecânicas estabelecem dinâmicas de progressão, qualificam ou quantificam essa prograssão através de conquistas e definem condições para que o jogador seja recompensado ou punido
 
 
