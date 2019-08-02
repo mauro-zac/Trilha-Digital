@@ -8,11 +8,11 @@
 
 `Roteiro`
 
+#### 1) A internet mais de perto
+
 > Muitas pessoas não sabem diferenciar o que é o Facebook ou o Google do que é a Internet, e só acessam a rede através desses servidores centralizados. [El País 29/07/2019](https://brasil.elpais.com/brasil/2019/07/30/tecnologia/1564437803_087942.html)
 
-#### 1) Dando uma olhada mais de perto em como ocorre a comunicação na internet
-
-Você ou alguém por perto deve ter em mãos um celular Android. Vamos usar esse aparelho de um modo diferente para acessar a internet. Um celular Android é um computador bastante sofisticado, mas a interface para o usuário é bastante restrita. Fica limitada aos aplicativos.
+Você ou alguém por perto deve ter em mãos um celular Android (ou um Chromebook). Vamos usá-lo de um modo diferente para acessar a internet. Um celular Android é um computador bastante sofisticado, mas a interface para o usuário é bastante restrita. Fica limitada aos aplicativos.
 
 Ficava!
 
@@ -46,17 +46,35 @@ Você já deve ter se deparado com um site te pedindo para **aceitar cookies**. 
 
 O comando curl faz muitas outras coisas importantes. Por exemplo, ele é um aliado seguro para examinar sites suspeitos. Como o curl é incapaz de executar os códigos que baixa, ele te permite investigar páginas maliciosas sem correr riscos.
 
-$ `curl --help` mostra outras possibilidades de uso do comando curl. Divirta-se.
+$ `curl --help` mostra outras possibilidades de uso do comando curl.
 
+#### 2) Servidores
 
-#### 2) Um pouco mais sobre o protocolo HTTP
+Muita gente imagina que um servidor é algum tipo de computador extremamente sofisticado e caro, cheio de luzinhas piscando e fios conectados em um *datacenter*. Ok, a maioria dos grandes sistemas operando *em produção* é desse tipo e requer muitas etapas de configuração para funcionar de modo otimizado e seguro.
 
-$ `curl ifconfig.me`
+Mas não é isso que define um servidor. Na internet, qualquer máquina pode ser um servidor. Até o seu celular. 
+
+Um servidor é simplesmente um computador configurado para receber **requests** (pedidos, requerimentos) de outros computadores e entregar os conteúdos solicitados. O computador que envia o *request* e recebe a *response* (resposta) é o **cliente**.
+
+Para que cliente e servidor se entendam eles precisam falar a mesma língua. Vimos com o curl como é a cara do protocolo HTTP, uma das línguas mais usadas. O HTTP foi criado para transmitir as páginas da web, chamadas antigamente de híper-texto: *Hyper Text Transmition Protocol*. Mas na prática, dados, arquivos, imagens e vídeos também podem ser transimitidos pelo HTTP, mesmo ele não sendo o modo mais eficiente para todos os casos.
+
+O cliente declara que língua está usando bem no ínício da frase: "https://..." 
+
+O HTTPS é uma variante mais segura do protocolo capaz de [criptografar](https://pt.wikipedia.org/wiki/Criptografia) os dados transmitidos. Sem a criptografia, as mensagens podem ser lidas por terceiros enquanto transitam na rede. 
+
+Outros protocolos bastante utilizados na internet incluem SSH, FTP, POP, IMAP, SMTP e WS. Procure depois saber mais sobre eles, porque a atividade de hoje será transformar seu celular em um servidor.
+
+`http://localhost`
 
 $ `pkg install python`
 
 $ `python -m http.server 8000 --bind 127.0.0.1`
 
+$ `pkg install nginx`
+
+
+
+$ `curl ifconfig.me`
 
 
 #### 3) 
@@ -64,8 +82,6 @@ $ `python -m http.server 8000 --bind 127.0.0.1`
 
 #### 4) 
 
-
-#### 5) 
 
 
 -----
