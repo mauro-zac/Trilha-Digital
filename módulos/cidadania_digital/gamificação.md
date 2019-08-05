@@ -45,14 +45,15 @@ Leia [este artigo](https://endeavor.org.br/estrategia-e-gestao/kpi) para entende
 
 [Neste artigo](https://www.brainsins.com/en/blog/top-10-kpis-gamification-strategy/2711) (em inglês), são elencadas 10 KPIs fundamentais para a estratégia de gamificação de um e-commerce. Embora cada tipo de negócio gamificado demande KPIs próprias para um projeto gamificado, esse artigo traz insights bastante interessantes para diversos segmentos do mercado.
 
-Por fim, [este artigo](https://www.inboundlogistics.com/cms/article/gamification-a-new-way-of-tracking-and-improving-KPIs) (em inglês) explica como a gamificação pode ajudar a definir, rastrear e melhorar KPIs. 
+[Este outro artigo](https://www.inboundlogistics.com/cms/article/gamification-a-new-way-of-tracking-and-improving-KPIs) (em inglês) explica como a gamificação pode ajudar a definir, rastrear e melhorar KPIs.
 
-Boa leitura!
+Consegue imaginar o uso de KPIs para melhorar as regras de um jogo? Pense em um jogo digital ou não que você gosta e tente definir os KPIs que poderiam determinar o quanto você e outros jogadores são capazes de compreender as regras e interagir corretamente neste jogo.
 
+Agora, tente mudar as regras do jogo um pouco para tentar melhorar os KPIs. Essas regras são também denominadas mecânicas e podem ser aplicadas de diversas formas em um sistema gamificado. Leia um pouco mais sobre mecânicas para gamificação [neste artigo](https://www.skillbuilderlms.com/br/lms-gamification-game-mechanics).
 
+As mecânicas estabelecem dinâmicas de progressão, qualificam ou quantificam essa prograssão através de conquistas e definem condições para que o jogador seja recompensado ou punido. Mas como assim PUNIDO? Em gamificação, podemos entender que punições são aquele "esforço a mais" para que o usuário consiga realizar determinadas tarefas. Não se trata, portanto, de punir efetivamente um jogador, como acontece nos games, mas oferecer um desafio mais complexo, profundo ou significativo para que o usuário mantenha-se engajado e sinta que está evoluindo e se divertindo.
 
-Regras --> Mecânicas
-Mecânicas estabelecem dinâmicas de progressão, qualificam ou quantificam essa prograssão através de conquistas e definem condições para que o jogador seja recompensado ou punido
+[Neste link](https://rockcontent.com/blog/gamification) há um artigo sobre diversão em gamificação. Boa leitura!
 
 
 
