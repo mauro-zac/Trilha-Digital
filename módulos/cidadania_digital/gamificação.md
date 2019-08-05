@@ -46,7 +46,9 @@ Leia [este artigo](https://endeavor.org.br/estrategia-e-gestao/kpi) para entende
 [Neste artigo](https://www.brainsins.com/en/blog/top-10-kpis-gamification-strategy/2711) (em inglês), são elencadas 10 KPIs fundamentais para a estratégia de gamificação de um e-commerce. Embora cada tipo de negócio gamificado demande KPIs próprias para um projeto gamificado, esse artigo traz insights bastante interessantes para diversos segmentos do mercado.
 
 Por fim, [este artigo](https://www.inboundlogistics.com/cms/article/gamification-a-new-way-of-tracking-and-improving-KPIs) (em inglês) explica como a gamificação pode ajudar a definir, rastrear e melhorar KPIs. 
+
 Boa leitura!
+
 
 
 Regras --> Mecânicas
