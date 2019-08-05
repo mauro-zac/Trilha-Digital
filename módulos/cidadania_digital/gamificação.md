@@ -37,10 +37,20 @@ Podemos dizer que a gamificação é uma maneira de transformar tarefas repetiti
 Mas, afinal, o que é diversão? O Dicionário de Cambridge define diversão como
 >"comportamento ou atividade agradável ou interessante. O contrário de chato."
 
-Nos games, ao contrário da vida real, as pessoas conseguem abstrair as coisas ruins ou chatas e podem agir de forma não obrigatória, não forçada. E justamente por isso, o comportamento dos jogadores se torna previsível, pois o jogo determina as limitações e regras que devem ser seguidas para que haja progresso, conquistas, punições e recompensas.
+Nos games, ao contrário da vida real, as pessoas conseguem abstrair as coisas ruins ou chatas e podem agir de forma não obrigatória, não forçada. E justamente por isso, o comportamento dos jogadores se torna previsível, pois o jogo determina as limitações e regras que devem ser seguidas para que haja progresso, conquistas, punições e recompensas. 
 
-Previsibilidade --> Métricas
+Apesar de o desempenho do jogador poder ser avaliado através da própria interação com sistema gamificado - pois os critérios de sucesso (que quse sempre demandam recompensas) ou fracasso (que podem incidir em punições) sempre estarão fortemente atrelados às regras do jogo - a previsibilidade do comportamento dos usuários nos ajuda a definir indicadores de performance do sistema, também conhecidos como KPIs. Entender e aplicar corretamente os KPIs possibilita aprimorar um sistema gamificado a partir da compreensão das divesas formas com que o usuário interage com o sistema.
+
+Leia [este artigo](https://endeavor.org.br/estrategia-e-gestao/kpi) para entender melhor o conceito e aplicações de KPIs. 
+[Neste artigo](https://www.brainsins.com/en/blog/top-10-kpis-gamification-strategy/2711) (em inglês), são elencadas 10 KPIs fundamentais para a estratégia de gamificação de um e-commerce. Embora cada tipo de negócio gamificado demande KPIs próprias para um projeto gamificado, esse artigo traz insights bastante interessantes para diversos segmentos do mercado.
+Por fim, [este artigo](https://www.inboundlogistics.com/cms/article/gamification-a-new-way-of-tracking-and-improving-KPIs) (em inglês) explica como a gamificação pode ajudar a definir, rastrear e melhorar KPIs. 
+Boa leitura!
+
+
 Regras --> Mecânicas
 Mecânicas estabelecem dinâmicas de progressão, qualificam ou quantificam essa prograssão através de conquistas e definem condições para que o jogador seja recompensado ou punido
+
+
+
 
 
