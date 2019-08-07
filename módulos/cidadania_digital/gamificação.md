@@ -41,7 +41,6 @@ Nos games, ao contrário da vida real, as pessoas conseguem abstrair as coisas r
 
 Apesar de o desempenho do jogador poder ser avaliado através da própria interação com sistema gamificado - pois os critérios de sucesso (que quse sempre demandam recompensas) ou fracasso (que podem incidir em punições) sempre estarão fortemente atrelados às regras do jogo - a previsibilidade do comportamento dos usuários nos ajuda a definir indicadores de performance do sistema, também conhecidos como KPIs. Entender e aplicar corretamente os KPIs possibilita aprimorar um sistema gamificado a partir da compreensão das divesas formas com que o usuário interage com o sistema.
 
-
 Leia [este artigo](https://endeavor.org.br/estrategia-e-gestao/kpi) para entender melhor o conceito e aplicações de KPIs. 
 
 [Neste artigo](https://www.brainsins.com/en/blog/top-10-kpis-gamification-strategy/2711) (em inglês), são elencadas 10 KPIs fundamentais para a estratégia de gamificação de um e-commerce. Embora cada tipo de negócio gamificado demande KPIs próprias para um projeto gamificado, esse artigo traz insights bastante interessantes para diversos segmentos do mercado.
@@ -54,7 +53,20 @@ Agora, tente mudar as regras do jogo um pouco para tentar melhorar os KPIs. Essa
 
 As mecânicas estabelecem dinâmicas de progressão, qualificam ou quantificam essa prograssão através de conquistas e definem condições para que o jogador seja recompensado ou punido. Mas como assim PUNIDO? Em gamificação, podemos entender que punições são aquele "esforço a mais" para que o usuário consiga realizar determinadas tarefas. Não se trata, portanto, de punir efetivamente um jogador, como acontece nos games, mas oferecer um desafio mais complexo, profundo ou significativo para que o usuário mantenha-se engajado e sinta que está evoluindo e se divertindo.
 
-[Neste link](https://rockcontent.com/blog/gamification) há um artigo sobre diversão em gamificação. Boa leitura!
+[Neste link](https://rockcontent.com/blog/gamification) há um artigo sobre diversão em gamificação.
+
+E as recompensas? Podemos pensar nas recompensas como o reconhecimento que o sistema gamificado oferece ao jogador quando ele consegue cumprir objetivos, realizar tarefas específicas e demonstrar engajamento. Quase sempre, quando há um desafio, se o jogador não é punindo, é recompensado.
+
+Veja essas [8 dicas para usar um sistema de recompensas baseado em pontos para gamificação.](https://www.moodlelivre.com.br/noticias/2359-8-dicas-para-usar-um-sistema-de-recompensas-baseado-em-pontos-para-gamificacao)
+
+#### 3) Tipos de Gamers
+
+Achievers
+Socializers
+Explorers
+Killers
+
+
 
 
 
