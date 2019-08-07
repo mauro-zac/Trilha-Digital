@@ -61,10 +61,10 @@ Veja essas [8 dicas para usar um sistema de recompensas baseado em pontos para g
 
 #### 3) Tipos de Gamers
 
-Achievers
-Socializers
-Explorers
-Killers
+Achievers (realizadores) 
+Socializers (socializadores)
+Explorers (exploradores)
+Killers (assassinos) 
 
 
 
