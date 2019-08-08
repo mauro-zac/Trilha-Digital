@@ -61,13 +61,33 @@ Veja essas [8 dicas para usar um sistema de recompensas baseado em pontos para g
 
 #### 3) Tipos de Gamers
 
-Achievers (realizadores) 
-Socializers (socializadores)
-Explorers (exploradores)
-Killers (assassinos) 
+Antes de começar a criar um sistema gamificado, é preciso compreender com clareza qual é o perfil do seu usuário (público alvo) e também definir quais são os tipos de jogadores que estão inseridos nesse perfil. Existem 4 tipos de jogadores que se adequam aos sistemas gamificados. São eles:
 
+• Achievers (competitivos): são jogadores que interagem pela competição, que gostam de atingir objetivos e superar desafios;
 
+• Socializers (socializadores): este jogador não quer apenas ganhar o jogo, mas que todos os demais jogadores compartilhem suas vitórias. O socializador gosta de interagir com amigos em cooperação para atingir objetivos;
 
+• Explorers (exploradores): gostam de descobrir coisas novas, desbloquear novas possibilidades do jogo, encontrar e obter prêmios secretos e explorar todas as possibilidades do sistema;
+
+• Killers (destruidores): também são conhecidos como "haters". Para esses jogadores, não basta vencer: para ele, alguém também tem que perder. 
+
+Um sitema gamificado deve, portanto, utilizar elementos que satisfaçam esses quatro perfis em maior ou menor nível de adequação de acordo com o público definido. Entretanto, prever situações e mecânicas que contemplem os quatro tipos de jogadores é importante para atingir um número maior de usuários potenciais.
+
+Você se encaixa em qual tipo de jogador? Reúna-se com sua turma e tente descobrir qual é o perfil de cada um e quais mecânicas de jogo poderiam se adequar melhor a cada um dos perfis.
+
+[Esta apresentação](https://pt.slideshare.net/agbrjr/games-e-tipos-de-gamers) aprofunda um pouco mais os conceitos relacionados aos tipos de gamers (jogadores).
+
+#### 4) O Ciclo da Gamificação
+
+O Ciclo da Gamficiação incorpora 8 elementos essenciais para o sucesso de um sistema gamificado. São eles:
+• Onboarding:
+• Termos do Jogo:
+• Pontos:
+• Desafios:
+• Badges:
+• Status:
+• Placares:
+• Social Networking:
 
 
 
