@@ -24,7 +24,7 @@ $ `curl https://raw.githubusercontent.com/mauro-zac/Trilha-Digital/master/m%C3%B
 
 O que aconteceu? Você acessou o conteúdo desta aula em texto-plano (*raw*) diretamente do site do GitHub. O [comando curl](https://pt.wikipedia.org/wiki/Curl_(Unix)) encontrou o servidor especificado no endereço *github.com*, usando o protocolo *https* e retornou o conteúdo que está lá disponível, fisicamente salvo em um *datacenter* em algum lugar do mundo. Todo esse processo ocorreu em frações de segundo. 
 
-O curl baixa o conteúdo exatamente como está no servidor. No link acima, o texto *raw* é perfeitamente legível. Mas tente agora baixar uma página mais típica da internet...
+O curl baixa o conteúdo exatamente como está no servidor. No link acima, o texto *raw* é perfeitamente legível. Mas tente agora baixar uma página mais típica da internet:
 
 $ `curl https://github.com/mauro-zac/Trilha-Digital/blob/master/m%C3%B3dulos/cidadania_digital/internet.md`
 
@@ -60,15 +60,31 @@ Para que cliente e servidor se entendam eles precisam falar a mesma língua. Vim
 
 O cliente declara que língua está usando bem no ínício da frase: "https://..." 
 
-O HTTPS é uma variante mais segura do protocolo capaz de [criptografar](https://pt.wikipedia.org/wiki/Criptografia) os dados transmitidos. Sem a criptografia, as mensagens podem ser lidas por terceiros enquanto transitam na rede. 
+O HTTPS é uma variante mais segura do protocolo HTTP capaz de [criptografar](https://pt.wikipedia.org/wiki/Criptografia) os dados transmitidos. Sem a criptografia, as mensagens podem ser lidas por terceiros enquanto transitam na rede. 
 
-Outros protocolos bastante utilizados na internet incluem SSH, FTP, POP, IMAP, SMTP e WS. Procure depois saber mais sobre eles, porque a atividade de hoje será transformar seu celular em um servidor.
+Outros protocolos bastante utilizados na internet incluem SSH, FTP, POP, IMAP, SMTP e WS. Procure saber mais sobre eles. Mas depois, porque a atividade de hoje será transformar seu celular em um servidor.
+
+Todo navegador (Chrome, Firefox, Safari, Edge, etc.) é capaz de fazer requisições dirigidas à própria máquina em que está instaldao. Chamamos isso de requisição local ou ao *localhost*. Se nossa máquina estiver *servindo* algum conteúdo, ele será visível no endereço:
 
 `http://localhost`
 
+Se você acessar esse endereço em sua máquina, provavelmente será informado de que o navegador não pode acessar o site ou que a conexão foi recusada. Tente acessar para ver. Está certo, se não houver nada sendo servido, não vai ter nada mesmo para ser visto.
+
+Para ativar um servidor localmente, vamos precisar primeiro instalar o Python.  
+
 $ `pkg install python`
 
+Você vai usar Python para muitas coisas na Trilha Digital, é bom ter ele por perto inclusive em seu celular!
+
+Ok, uma vez instalado o Python, rode este comando:
+
 $ `python -m http.server 8000 --bind 127.0.0.1`
+
+E acesse novamente o localhost por um browser ou pelo curl
+
+`http://localhost:8000`
+
+
 
 $ `pkg install nginx`
 
@@ -77,7 +93,7 @@ $ `pkg install nginx`
 $ `curl ifconfig.me`
 
 
-#### 3) 
+#### 3) Explorando o IP
 
 
 #### 4) 
