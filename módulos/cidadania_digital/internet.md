@@ -100,7 +100,7 @@ O nginx por padrão serve na porta 8080:
 
 `http://localhost:8080` e você verá uma página em HTML: "Welcome to nginx!". Ela é servida a partir de um diretório. Caminhe até lá no Termux:
 
-`cd /data/data/com.termux/files/usr/share/nginx/html`
+$ `cd /data/data/com.termux/files/usr/share/nginx/html`
 
 Vamos usar um editor de texto chamado *nano* para olhar e modificar o index.
 
@@ -112,7 +112,7 @@ Você verá a página do Welcome com a marcação do HTML. Modifique uma linha, 
 
 `<h1>Bem-vindo à Trilha Digital!</h1>`
 
-Use `CTRL+X` para sair e não se esqueça de confirmar (YES) que quer salvar o arquivo com o mesmo nome. 
+Use `CTRL+X` para sair e não se esqueça de confirmar (YES) que quer salvar o arquivo. 
    
 Vá ao navegador e recarregue `http://localhost:8080`. Pronto, você deu seu primeiro passo para virar um desenvolvedor!
 
