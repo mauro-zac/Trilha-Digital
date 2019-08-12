@@ -118,9 +118,15 @@ Vá ao navegador e recarregue `http://localhost:8080`. Pronto, você está viran
 
 Se liga: não deixe servidores ativos em seu celular. Depois de brincar com eles, desligue-os!
 
-#### 3) Explorando endereços de IP
+#### 3) Explorando endereços de IP (TO_DO)
 
 $ `curl ifconfig.me`
+
+[Python Geocoder](https://github.com/DenisCarriere/geocoder)
+
+$ `pip install geocoder`
+
+
 
 #### 4) 
 
