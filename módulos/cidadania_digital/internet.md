@@ -114,7 +114,7 @@ Você verá a página do Welcome com a marcação do HTML. Modifique uma linha, 
 
 Use `CTRL+X` para sair e não se esqueça de confirmar (YES) que quer salvar o arquivo. 
    
-Vá ao navegador e recarregue `http://localhost:8080`. Pronto, você deu seu primeiro passo para virar um desenvolvedor!
+Vá ao navegador e recarregue `http://localhost:8080`. Pronto, você está virando um desenvolvedor!
 
 Se liga: não deixe servidores ativos em seu celular. Depois de brincar com eles, desligue-os!
 
