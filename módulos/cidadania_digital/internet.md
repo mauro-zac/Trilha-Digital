@@ -64,13 +64,13 @@ O HTTPS é uma variante mais segura do protocolo HTTP capaz de [criptografar](ht
 
 Outros protocolos bastante utilizados na internet incluem SSH, FTP, POP, IMAP, SMTP e WS. Procure saber mais sobre eles. Mas depois, porque a atividade de hoje será transformar seu celular em um servidor.
 
-Todo navegador (Chrome, Firefox, Safari, Edge, etc.) é capaz de fazer requisições dirigidas à própria máquina em que está instaldao. Chamamos isso de requisição local ou ao *localhost*. Se nossa máquina estiver *servindo* algum conteúdo, ele será visível no endereço:
+Todo navegador (Chrome, Firefox, Safari, Edge, etc.) é capaz de fazer requisições dirigidas à própria máquina em que está instaldao. Chamamos isso de requisição local ou ao *localhost*. Se nossa máquina estiver servindo algum conteúdo, ele será visível no endereço:
 
 `http://localhost`
 
 Se você acessar esse endereço em sua máquina, provavelmente será informado de que o navegador não pode acessar o site ou que a conexão foi recusada. Tente acessar para ver. Está certo, se não houver nada sendo servido, não vai ter nada mesmo para ser visto.
 
-Para ativar um servidor localmente, vamos precisar primeiro instalar o Python.  
+Para ativar um servidor localmente, vamos primeiro precisar instalar o Python.  
 
 $ `pkg install python`
 
@@ -80,9 +80,14 @@ Ok, uma vez instalado o Python, rode este comando:
 
 $ `python -m http.server 8000 --bind 127.0.0.1`
 
-E acesse novamente o localhost por um browser ou pelo curl
+E acesse novamente o localhost pelo navegador:
 
 `http://localhost:8000`
+
+Ah, você agora pode ver parte da estrutura de diretórios de seu celular! O programa `http.server` está servindo as pastas e os arquivos de seu celular para o endereço 127.0.0.1 (que é o número de IP padrão para o *localhost*). Nesse exemplo, instruímos o programa para servir os dados pela porta 8000. A porta padrão do http é a 80, mas constumamos não usar essa porta fora de um ambiente de produção bem configurado.
+
+Para desligar o servidor, você precisa executar o comando `CTRL+C` no Termux. Mas antes de desligar note as mensagens mostrando as respostas do servidor aos acessos do navegador, você vai encontrar algo como `"GET / HTTP/1.1" 200`
+
 
 
 
