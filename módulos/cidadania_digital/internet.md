@@ -86,20 +86,41 @@ E acesse novamente o localhost pelo navegador:
 
 Ah, você agora pode ver parte da estrutura de diretórios de seu celular! O programa `http.server` está servindo as pastas e os arquivos de seu celular para o endereço 127.0.0.1 (que é o número de IP padrão para o *localhost*). Nesse exemplo, instruímos o programa para servir os dados pela porta 8000. A porta padrão do http é a 80, mas constumamos não usar essa porta fora de um ambiente de produção bem configurado.
 
-Para desligar o servidor, você precisa executar o comando `CTRL+C` no Termux. Mas antes de desligar note as mensagens mostrando as respostas do servidor aos acessos do navegador, você vai encontrar algo como `"GET / HTTP/1.1" 200`
+Para desligar o servidor, você precisa executar o comando `CTRL+C` no Termux. Mas antes de desligar note as mensagens mostrando as respostas do servidor aos acessos do navegador, você vai encontrar algo como `"GET / HTTP/1.1" 200` mostrando que o servidor recebeu um request do tipo GET usando o protocolo HTTP 1.1 e respondeu corretamente gerando uma mensagem de status 200 que significa OK.
 
-
-
+E você pode rodar até programas mais parrudos do que o servidor do Python. Por exemplo o [Nginx](https://nginx.org/), um dos melhores e mais usados no mundo.
 
 $ `pkg install nginx`
 
+$ `nginx` para ligar
 
+$ `nginx -s stop` para desligar
+
+O nginx por padrão serve na porta 8080:
+
+`http://localhost:8080` e você verá uma página em HTML: "Welcome to nginx!". Ela é servida a partir de um diretório. Caminhe até lá no Termux:
+
+`cd /data/data/com.termux/files/usr/share/nginx/html`
+
+Vamos usar um editor de texto chamado *nano* para olhar e modificar o index.
+
+$ `pkg install nano`
+
+$ `nano index.html`
+
+Você verá a página do Welcome com a marcação do HTML. Modifique uma linha, por exemplo:
+
+`<h1>Bem-vindo à Trilha Digital!</h1>`
+
+Use `CTRL+X` para sair e não se esqueça de confirmar (YES) que quer salvar o arquivo com o mesmo nome. 
+   
+Vá ao navegador e recarregue `http://localhost:8080`. Pronto, você deu seu primeiro passo para virar um desenvolvedor!
+
+Se liga: não deixe servidores ativos em seu celular. Depois de brincar com eles, desligue-os!
+
+#### 3) Explorando endereços de IP
 
 $ `curl ifconfig.me`
-
-
-#### 3) Explorando o IP
-
 
 #### 4) 
 
