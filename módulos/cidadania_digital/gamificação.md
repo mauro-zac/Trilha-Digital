@@ -80,13 +80,21 @@ Você se encaixa em qual tipo de jogador? Reúna-se com sua turma e tente descob
 #### 4) O Ciclo da Gamificação
 
 O Ciclo da Gamficiação incorpora 8 elementos essenciais para o sucesso de um sistema gamificado. São eles:
-• Onboarding:
-• Termos do Jogo:
-• Pontos:
-• Desafios:
-• Badges:
-• Status:
-• Placares:
+
+• Onboarding: o primeiro contato do usuário com o jogo. As primeiras impressões e tomada de decisão do jogador se permanece no sistema ou desiste de interagir com ele.
+
+• Termos do Jogo: apresentação das regras. O jogo deve expor claramente as mecânicas, progressão, objetivos e resultados esperados.
+
+• Pontos: sistema de premiação do jogo em relação às ações e tarefas realizadas pelo jogador.
+
+• Desafios: são fundamentais para o engajamento do usuário. Desafios constantes mantem os jogadores ativos no sistema e interessados em realizar novas ações que impliquem em progressão, bonificação ou pontuação.
+
+• Badges: 
+
+• Status: 
+
+• Placares: forma com que o jogador identifica seu progresso individualmente e em relação aos demais jogadores. Trata-se de um importante recurso para aguçar o senso competitivo nos usuários do sistema.
+
 • Social Networking:
 
 
