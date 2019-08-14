@@ -91,7 +91,7 @@ O Ciclo da Gamficiação incorpora uma sequência de 8 elementos essenciais para
 
 • Badges: 
 
-• Status: 
+• Status: indica o estado atual do usuário em relação aos seus objetivos e, também, em relação aos demais usuários do sistema gamificado.
 
 • Placares: forma com que o jogador identifica seu progresso individualmente e em relação aos demais jogadores. Trata-se de um importante recurso para aguçar o senso competitivo nos usuários do sistema.
 
