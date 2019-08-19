@@ -158,15 +158,18 @@ $ `python`
 
 Dentro do python vamos usar o geocoder:
 
->>> `import geocoder`
->>> `eu = geocoder.ip("179.93.172.72")`
+```python
+import geocoder
+eu = geocoder.ip("179.93.172.72")
+```
 
 Usei o endereço do exemplo acima, mas acho que você vai querer usar o seu.
 
->>> `eu
+```python
+eu
 <[OK] Ipinfo - Geocode [São Paulo, São Paulo, BR]>`
 
->>> `eu.json
+eu.json
 {
    'address': 'São Paulo, São Paulo, BR', 
    'city': 'São Paulo', 
@@ -191,7 +194,8 @@ Usei o endereço do exemplo acima, mas acho que você vai querer usar o seu.
      }, 
      'state': 'São Paulo', 
      'status': 'OK'
-}`
+}
+```
 
 Aha, descobrimos qual é o provedor da conexão e onde mais ou menos ela está! 
 
@@ -216,7 +220,8 @@ Address: 208.80.154.224`
 
 Opa, aí está o IP da Wikipedia! Mas dá para saber ainda mais com o comando *whois*:
 
-$ `whois pt.wikipedia.org
+$ ```
+whois pt.wikipedia.org
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
@@ -268,14 +273,16 @@ remarks:      Registration information: http://www.pir.org
 
 created:      1985-01-01
 changed:      2016-05-10
-source:       IANA`
+source:       IANA
+```
 
 E usando o geocoder no python:
 
->>> `wiki = geocoder.ip("208.80.154.224")`
-
->>> `wiki.json
-{'status': 'OK', 'domain': 'wikimedia.org', 'isp': 'Wikimedia Foundation', 'ok': True, 'encoding': 'utf-8', 'ip': '208.80.154.224', 'address': 'United States', 'provider': 'maxmind', 'location': '208.80.154.224', 'country': u'United States', 'lat': 37.751, 'timezone': 'America/Chicago', 'lng': -97.822, 'continent': u'North America'}`
+```python
+wiki = geocoder.ip("208.80.154.224")`
+wiki.json
+{'status': 'OK', 'domain': 'wikimedia.org', 'isp': 'Wikimedia Foundation', 'ok': True, 'encoding': 'utf-8', 'ip': '208.80.154.224', 'address': 'United States', 'provider': 'maxmind', 'location': '208.80.154.224', 'country': u'United States', 'lat': 37.751, 'timezone': 'America/Chicago', 'lng': -97.822, 'continent': u'North America'}
+```
 
 #### 4) Infraestrutra e velocidade (TO DO)
 
