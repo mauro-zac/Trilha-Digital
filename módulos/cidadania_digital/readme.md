@@ -17,4 +17,10 @@ Sugestão de tópicos a desenvolver:
 
 ### kernel
 
-1. `80 horas aguardando contribuições`
+Micromódulos em produção:
+
+1. Redes Sociais - 2 horas
+2. Internet - 4 horas
+3. Gameficação - 6 horas
+
+`68 horas aguardando contribuições`
