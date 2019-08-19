@@ -167,7 +167,7 @@ Usei o endereço do exemplo acima, mas acho que você vai querer usar o seu.
 
 ```python
 eu
-<[OK] Ipinfo - Geocode [São Paulo, São Paulo, BR]>`
+<[OK] Ipinfo - Geocode [São Paulo, São Paulo, BR]>
 
 eu.json
 {
@@ -209,19 +209,22 @@ $ `pkg install dnsutils`
 
 E então com o comando *nslookup*:
 
-$ `nslookup pt.wikipedia.org
+$ `nslookup pt.wikipedia.org`
+
+```
 Server:		192.168.15.1
 Address:	192.168.15.1#53
 
 Non-authoritative answer:
 pt.wikipedia.org	canonical name = dyna.wikimedia.org.
 Name:	dyna.wikimedia.org
-Address: 208.80.154.224`
-
+Address: 208.80.154.224
+```
 Opa, aí está o IP da Wikipedia! Mas dá para saber ainda mais com o comando *whois*:
 
-$ ```
-whois pt.wikipedia.org
+$ `whois pt.wikipedia.org`
+
+```
 % IANA WHOIS server
 % for more information on IANA, visit http://www.iana.org
 % This query returned 1 object
