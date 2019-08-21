@@ -136,11 +136,13 @@ Essa divisão é chamada de [Modelo OSI](https://pt.wikipedia.org/wiki/Modelo_OS
 
 O IP, ou [Protocolo de Internet](https://pt.wikipedia.org/wiki/Protocolo_de_Internet), é um representante da *camada de rede*. É com o IP que se torna possível a comunicação em rede, ou seja, enviar e receber informação de ou para qualquer computador conectado na rede. O IP quase sempre opera conjuntamente com um protocolo da *camada de transporte*, o [TCP](https://pt.wikipedia.org/wiki/Transmission_Control_Protocol). Os dois juntos, TCP/IP, são capazes de lidar com uma lista enorme de situações e de falhas, fazendo com que a internet funcione. 
 
-Para o usuário comum, todo o trabalho que acontece entre as camadas de 1 a 6 fica praticamente oculto. Muitos dos [ataques cibernéticos](https://en.wikipedia.org/wiki/Cyberattack) acontecem nesse universo opaco. A complexidade que fica escondida é muito grande e a maioria dos usuários nem imagina onde estão os pontos fracos.
+Para o usuário comum, todo o trabalho que acontece entre as camadas de 1 a 6 fica praticamente oculto. Essa separação é fundamental para facilitar a criação de conteúdos e serviços na *camada de aplicação*. As aplicações não precisam se preocupar com os detalhes dos protocolos abaixo dela. 
 
-Vamos nos divertir um pouco com algumas ferramentas capazes de levantar informações interessantes sobre a *camada de rede*.
+Por outro lado, muitos dos [ataques cibernéticos](https://en.wikipedia.org/wiki/Cyberattack) acontecem nesse universo opaco. A complexidade que fica escondida é grande e é preciso se tornar um especialista para conhecer todos os detalhes.
 
-###### Onde estou conectado?
+Mas isso não nos impede pelo menos aprender a encontrar algumas informações interessantes sobre a *camada de rede*.
+
+##### Onde estou conectado?
 
 Se sua máquina está na internet, ela possui um endereço de IP. Para saber o seu use o serviço ifconfig.me com o curl:
 
@@ -199,7 +201,7 @@ eu.json
 
 Aha, descobrimos qual é o provedor da conexão e onde mais ou menos ela está! 
 
-###### E todos os sites que existem?
+##### E todos os sites que existem?
 
 Todos os sites que visitamos tem um endereço de IP. Diferente dos clientes, um servidor precisa ter um endereço de IP fixo para que possa ser sempre encontrado na rede. Quando visitamos um site usamos um endereço em um formato que usa palavras e siglas: por exemplo `pt.wikipedia.org`. Essa sintaxe é chamada de [DNS: Sistema de Nomes de Domínio](https://pt.wikipedia.org/wiki/Sistema_de_Nomes_de_Dom%C3%ADnio). O DNS corresponde a um mapa de navegação para a internet em que os nomes de domínio são vinculados a endereços de IP. Os registros dentro do domínio brasileiro `.br` é controlado pelo [registro.br](https://registro.br).
 
@@ -284,10 +286,27 @@ E usando o geocoder no python:
 ```python
 wiki = geocoder.ip("208.80.154.224")`
 wiki.json
-{'status': 'OK', 'domain': 'wikimedia.org', 'isp': 'Wikimedia Foundation', 'ok': True, 'encoding': 'utf-8', 'ip': '208.80.154.224', 'address': 'United States', 'provider': 'maxmind', 'location': '208.80.154.224', 'country': u'United States', 'lat': 37.751, 'timezone': 'America/Chicago', 'lng': -97.822, 'continent': u'North America'}
+{
+   'status': 'OK', 
+   'domain': 'wikimedia.org', 
+   'isp': 'Wikimedia Foundation', 
+   'ok': True, 'encoding': 
+   'utf-8', 'ip': 
+   '208.80.154.224', 
+   'address': 'United States', 
+   'provider': 'maxmind', 
+   'location': '208.80.154.224', 
+   'country': u'United States', 
+   'lat': 37.751, 
+   'timezone': 'America/Chicago', 
+   'lng': -97.822, 
+   'continent': u'North America'
+}
 ```
-
 #### 4) Infraestrutra e velocidade (TO DO)
 
+transmissão de dados, 
+velocidade
+latencia
 
 
