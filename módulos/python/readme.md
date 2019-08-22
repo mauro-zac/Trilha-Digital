@@ -1,4 +1,4 @@
-# Python
+# Programação
 
 `80 horas` `1º ano do ensino médio` `Fundamentos`
 
