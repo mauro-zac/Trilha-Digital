@@ -303,7 +303,11 @@ wiki.json
    'continent': u'North America'
 }
 ```
-#### 4) Infraestrutra e velocidade (TO DO)
+#### 4) Infraestrutra e medidas de desempenho
+
+Um dos aspectos mais fascinantes da Intenet é que, por ser construída sobre protocolos abertos, acessíveis e conhecidos por qualquer pessoa ou organização, ela pode crescer indefinidamente e formar uma rede de conexões extremamente complexa e resistente a falhas. Os pacotes de dados podem percorrer diferentes caminhos. Se algumas rotas estiverem saturadas ou indisponíveis, o tráfego é automaticamente desviado para outros caminhos.
+
+As máquinas que fazem essa distribuição são chamadas de [roteadores](https://developer.mozilla.org/pt-BR/docs/Learn/Common_questions/Como_a_internet_funciona).
 
 transmissão de dados, 
 velocidade
